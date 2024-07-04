@@ -1,0 +1,15 @@
+sleep 5
+sleep 5 &
+echo hello
+clear
+sleep 2 &
+sleep 5 &
+sleep 10 &
+sleep 5 &
+sleep 10 &
+sleep 8
+seek
+peek
+warp ..
+peek
+peek .
